@@ -4,3 +4,6 @@ site_description: Quimanima - Animations 2D with Python - Turtle for Chemistry.
 site_author: Quimanima Team
 
 repo_url: https://github.com/quimanima/quimanima
+
+theme:
+  name: python - turtle
