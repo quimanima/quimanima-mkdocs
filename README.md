@@ -1,0 +1,1 @@
+# MkDocs to static site for Quimanima
